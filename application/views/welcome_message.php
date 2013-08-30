@@ -389,6 +389,7 @@
 </div>
 </section>
 <!-- spacer section -->
+<!--
 <section class="spacer bg3">
 <div class="container">
 	<div class="row">
