@@ -109,14 +109,14 @@
 		</div>
 		<div class="span6">
 			<div class="aligncenter">
-				<img src="img/icons/creativity.png" alt="" />
+				<!--<img src="img/icons/creativity.png" alt="" />-->
 			</div>
 		</div>
 	</div>
 	<div class="row">
 		<div class="span2 offset1 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-1.jpg" alt="" />
+				<!--<img class="team-thumb img-circle" src="img/team/img-1.jpg" alt="" />-->
 				<h3>John Doe</h3>
 				<p>
 					Art director
@@ -125,7 +125,7 @@
 		</div>
 		<div class="span2 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-2.jpg" alt="" />
+				<!--<img class="team-thumb img-circle" src="img/team/img-2.jpg" alt="" />-->
 				<h3>Mike Doe</h3>
 				<p>
 					Web developer
@@ -134,7 +134,7 @@
 		</div>
 		<div class="span2 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-3.jpg" alt="" />
+				<!--<img class="team-thumb img-circle" src="img/team/img-3.jpg" alt="" />-->
 				<h3>Neil Doe</h3>
 				<p>
 					Web designer
@@ -143,7 +143,7 @@
 		</div>
 		<div class="span2 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-4.jpg" alt="" />
+				<!--<img class="team-thumb img-circle" src="img/team/img-4.jpg" alt="" />-->
 				<h3>Mark Joe</h3>
 				<p>
 					UI designer
@@ -152,7 +152,7 @@
 		</div>
 		<div class="span2 flyIn">
 			<div class="people">
-				<img class="team-thumb img-circle" src="img/team/img-5.jpg" alt="" />
+				<!--<img class="team-thumb img-circle" src="img/team/img-5.jpg" alt="" />-->
 				<h3>Stephen B</h3>
 				<p>
 					Digital imaging
