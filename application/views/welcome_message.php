@@ -30,7 +30,7 @@
 				<!-- Responsive navbar -->
 				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
 				</a>
-				<h2 class="brand">develop.io</h2>
+				<h2 class="brand"><a href="http://developio.devio">develop.io</a> </h2>
 				<!-- navigation -->
 				<nav class="pull-right nav-collapse collapse">
 				<ul id="menu-main" class="nav">
@@ -102,11 +102,7 @@
 		<div class="span8 offset2">
 			<div>
 				<h2>We live with <strong>creativity</strong></h2>
-					<p>Lucas ipsum dolor sit amet rugor solo nassau vagaari shistavanen hallotan boss momaw kal bimm. Thakwaash golda mara kasan p'w'eck cody kuat caedus gorog. Desolous djo su defel skywalker iktotchi onimi dressellian rukh. Gerb hutt dak beru mustafar boba lowbacca. Gorith walon bren haako ubese anthos wharl c'baoth. Shmi gamorr haako borsk nute drall sarn maximilian. Baba xanatos mustafarian yuzzum iego bibble kubaz. Yowza skywalker boss lando frozarns moff jar joelle beru. Koon t'landa tyber senex r2-d2 dash firmus. </p>
-					<p>Vilim tatooine gungan cognus. Wol dug mustafarian dodonna solo sal-solo. Yuzzem boba aruzan givin anakin meridian. Skakoan desolous hoojib bothan saleucami arkanis pellaeon ysanne hissa. Dashade ti rattataki mohc cornelius dulok obi-wan cb-99. Endor epicanthix skywalker gizka sio dodonna. Tarpals subterrel tund dexter pavan salacious gordin ikrit omas. Vedder kubaz wuher selonian neimoidian katarn qui-gon. C-3po pa'lowick ahsoka tyber sidious vebb mirta kir nilgaard. Illum vebb oswaft grizmallt desann lars. </p>
-					<p>Moddell talz durge mirialan dodonna dexter vader. Monkey-lizard darth calrissian iridonian sabé max cognus solo cade. Droch rune muun ooryl vong tierce wicket ogemite sio. Nas auril dressellian boss mace naberrie neimoidia joruus r5-d4. Lowbacca saesee winter ooryl dooku darklighter hutt wroonian moor. Drall vao typho cathar ismaren sal-solo kenobi shadda. Asajj gavyn tyranus barriss snivvian juvex thul kwi lowbacca. Fett mandalore zuckuss ken zekk hapes. Terrik rakata ozzel t88 paploo zorba kathol fel. </p>
-					<p>Bespin kyle jagged calrissian ozzel skywalker. Whill beru boss saffa iego clawdite. Jek jabba massa tharin maris allie. Solo sal-solo shimrra kanos melodie. Haruun mirax kamino wicket. Chirrpa c-3po lannik moff ooryl conan rishi darpa. Calrissian roonan tambor darpa bibble farlax himoran tusken raider. Tyber ziro lumiya kaleesh tano baba jagged pau'an caedus. Sulorine woostoid skywalker roos. H'nemthean dressellian disra desann. Tsavong lahara panaka bib dashade abregado moff vaathkree. Ithorian organa hallotan tchuukthai balosar rukh. </p>
-					<p>Gorog moor trianii fel dodonna nelvaanian. Sunrider vos hobbie chirrpa. Muunilinst hutt nute allana shmi jarael solo grievous. Nar zuggs fey'lya lando atrivis cb-99 brak darth. Juvex seerdon vos shistavanen massa beru vau c'baoth tion. Ubese reach fisto aurra dressellian taung dashade bardan. Togorian togorian dunwell snivvian boba sullustan chazrach di skywalker. Wirutid kal olié yané. Kel talz miraluka haako bajic woostoid. Geonosis kaleesh ortolan oola rahm grizmallt. Raynar tambor hutt altyr. </p> 
+					
 			</div>
 		</div>
 		<div class="span6">
