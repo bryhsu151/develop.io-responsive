@@ -108,13 +108,13 @@
 		</div>
 		<div class="span6">
 			<div class="aligncenter">
-				<img src="img/icons/creativity.png" alt="" />
+				<!--<img src="img/icons/creativity.png" alt="" />-->
 			</div>
 		</div>
 	</div>
 	<!--
 	<div class="row">
-		<div class="span2 offset1 flyIn">
+		<!--<div class="span2 offset1 flyIn">
 			<div class="people">
 				<img class="team-thumb img-circle" src="img/team/img-1.jpg" alt="" />
 				<h3>John Doe</h3>
@@ -158,7 +158,7 @@
 					Digital imaging
 				</p>
 			</div>
-		</div>
+		</div>-->
 	</div>
 </div>
 
