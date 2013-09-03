@@ -223,16 +223,16 @@
 				<h5>All</h5>
 				</a></li>
 				<li><a href="#" data-filter=".web">
-				<h5>HTML</h5>
+				<h5>Web</h5>
 				</a></li>
 				<li><a href="#" data-filter=".print">
-				<h5>CSS</h5>
+				<h5>Mobile</h5>
 				</a></li>
 				<li><a href="#" data-filter=".design">
-				<h5>JavaScript</h5>
+				<h5>Database</h5>
 				</a></li>
 				<li><a href="#" data-filter=".photography">
-				<h5>CodeIgniter</h5>
+				<h5>Miscellaneous</h5>
 				</a></li>
 			</ul>
 		</div>
