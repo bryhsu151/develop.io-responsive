@@ -36,8 +36,7 @@
 				<ul id="menu-main" class="nav">
 					<li><a title="team" href="#about">About Us</a></li>
 					<li><a title="services" href="#services">Services</a></li>
-					<li><a title="works" href="#works">Our Work</a></li>
-					<li><a title="blog" href="#blog">Technologies</a></li>
+					<li><a title="works" href="#works">Technologies</a></li>
 					<li><a title="contact" href="#contact">Contact</a></li>
 					<!-- <li><a href="page.html">Page</a></li> -->
 				</ul>
@@ -113,6 +112,7 @@
 			</div>
 		</div>
 	</div>
+	<!--
 	<div class="row">
 		<div class="span2 offset1 flyIn">
 			<div class="people">
@@ -161,7 +161,7 @@
 		</div>
 	</div>
 </div>
-<!-- /.container -->
+
 </section>
 <!-- end section: team -->
 <!-- section: services -->
@@ -214,7 +214,7 @@
 <!-- section: works -->
 <section id="works" class="section">
 <div class="container clearfix">
-	<h4>Our Work</h4>
+	<h4>Technologies</h4>
 	<!-- portfolio filter -->
 	<div class="row">
 		<div id="filters" class="span12">
@@ -223,16 +223,16 @@
 				<h5>All</h5>
 				</a></li>
 				<li><a href="#" data-filter=".web">
-				<h5>Web</h5>
+				<h5>HTML</h5>
 				</a></li>
 				<li><a href="#" data-filter=".print">
-				<h5>Print</h5>
+				<h5>CSS</h5>
 				</a></li>
 				<li><a href="#" data-filter=".design">
-				<h5>Design</h5>
+				<h5>JavaScript</h5>
 				</a></li>
 				<li><a href="#" data-filter=".photography">
-				<h5>Photography</h5>
+				<h5>CodeIgniter</h5>
 				</a></li>
 			</ul>
 		</div>
@@ -414,10 +414,12 @@
 </section>
 <!-- end spacer section -->
 <!-- section: blog -->
+<!--
 <section id="blog" class="section">
 <div class="container">
 	<h4>Technologies</h4>
 	<!-- Three columns -->
+	<!--
 	<div class="row">
 		<div class="span3">
 			<div class="home-post">
@@ -500,8 +502,10 @@
 	<!-- <div class="aligncenter">
 		<a href="#" class="btn btn-large btn-theme">More blog post</a>
 	</div> -->
+<!--
 </div>
 </section>
+-->
 
 
 <!-- spacer section -->
