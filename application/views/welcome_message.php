@@ -97,7 +97,7 @@
 <!-- section: team -->
 <section id="about" class="section">
 <div class="container">
-	<h4>Under Construction</h4>
+	<h4>Who We Are</h4>
 	<div class="row">
 		<div class="span8 offset2">
 			<div>
@@ -202,7 +202,7 @@
 		<div class="span3 animated-fast flyIn">
 			<div class="service-box">
 				<img src="http://develop.io/public/images/services/mario_consult_icon.png" class="icon on" alt=""/>
-				<h2>Social Networking</h2>
+				<h2>Networking</h2>
 				<p>
 					 Develop.io is here to make sure that your web development goes as smoothly as possible. If you have a question, we are here to answer it! If you have an issue, we are here to fix it! Our team is dedicated to ongoing support with any issue that arises. You worry about your business, we'll worry about your website! 
 				</p>
