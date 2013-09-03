@@ -755,7 +755,7 @@ section#services .service-box h2 {
 }
 
 section#services.section.orange .service-box:hover {
-	background: #444 url(../img/bg2.jpg) center center fixed;
+	background: #444 url(../img/bg2.jpg) center center;
 }
 
 
