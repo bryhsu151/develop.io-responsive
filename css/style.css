@@ -277,9 +277,12 @@ h2.pagetitle {
  /*	width: auto; */
 }
 .navbar .brand {
-	margin-left:0;
-	padding: 0;
-	margin-top: 1.05em;
+    text-align: left;    text-transform: lowercase;    font-family: 'PT Sans', sans-serif;    
+    font-size: 80px;    
+    line-height: .9;    letter-spacing: -2px;    
+    width: 50%;    
+    color: #FDF8F8;    
+    text-shadow: 3px 3px 0px #020202, 5px 5px 0px #999;
 }
 .navbar .brand a {
 	padding: 0;
@@ -328,7 +331,7 @@ ul#menu-main > li > a:focus {
 }
 
 .navbar-inverse .brand, .navbar-inverse .nav > li > a {
-	text-shadow: none;
+	text-shadow:;
 }
 
 
@@ -738,6 +741,7 @@ section#services p {
 section#services .service-box {
 	text-align: center;
 	padding: 20px;
+	background: rgba(255,255,255, 0.5);
 } 
 section#services .span3:hover {
 	background:#e3e3e3;
