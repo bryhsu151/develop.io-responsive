@@ -490,8 +490,8 @@ section.spacer {
 .spacer.yellow,.section.yellow  {
 	background:#ffe873;
 }
-.spacer.orange,.section.orange {
-	background: #444 url(../img/bg2.jpg) center center;
+.spacer.orange, .section.orange {
+    background: url("../img/bg2.jpg") repeat scroll center center / 100% auto #444444;
 }
 
 section.spacer.bg2 {
