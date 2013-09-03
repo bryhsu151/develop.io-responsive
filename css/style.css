@@ -491,7 +491,7 @@ section.spacer {
 	background:#ffe873;
 }
 .spacer.orange,.section.orange {
-	background: #444 url(../img/bg2.jpg) center center fixed;
+	background: #444 url(../img/bg2.jpg) center center;
 }
 
 section.spacer.bg2 {
