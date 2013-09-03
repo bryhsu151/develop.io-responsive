@@ -242,13 +242,13 @@
 		<div class="span12">
 			<div id="portfolio-wrap">
 				<!-- portfolio item -->
-				<div class="portfolio-item grid print photography">
+				<div class="portfolio-item grid web photography">
 					<div class="portfolio">
 						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
 						<img src="img/works/1.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>HTML</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -257,13 +257,13 @@
 				</div>
 				<!-- end portfolio item -->
 				<!-- portfolio item -->
-				<div class="portfolio-item grid print design web">
+				<div class="portfolio-item grid web">
 					<div class="portfolio">
 						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
 						<img src="img/works/2.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>PHP</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -272,13 +272,13 @@
 				</div>
 				<!-- end portfolio item -->
 				<!-- portfolio item -->
-				<div class="portfolio-item grid print design">
+				<div class="portfolio-item grid web">
 					<div class="portfolio">
 						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
 						<img src="img/works/3.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>CSS</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -287,13 +287,13 @@
 				</div>
 				<!-- end portfolio item -->
 				<!-- portfolio item -->
-				<div class="portfolio-item grid photography web">
+				<div class="portfolio-item grid web photography">
 					<div class="portfolio">
 						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
 						<img src="img/works/4.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>JavaScript</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -308,7 +308,7 @@
 						<img src="img/works/5.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>JQuery</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -323,7 +323,7 @@
 						<img src="img/works/6.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>CSS</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -332,13 +332,13 @@
 				</div>
 				<!-- end portfolio item -->
 				<!-- portfolio item -->
-				<div class="portfolio-item grid photography web">
+				<div class="portfolio-item grid web">
 					<div class="portfolio">
 						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
 						<img src="img/works/7.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>AJAX</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -347,13 +347,13 @@
 				</div>
 				<!-- end portfolio item -->
 				<!-- portfolio item -->
-				<div class="portfolio-item grid photography">
+				<div class="portfolio-item grid print photography">
 					<div class="portfolio">
 						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
 						<img src="img/works/8.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>Android</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -362,13 +362,13 @@
 				</div>
 				<!-- end portfolio item -->
 				<!-- portfolio item -->
-				<div class="portfolio-item grid photography web">
+				<div class="portfolio-item grid print">
 					<div class="portfolio">
 						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
 						<img src="img/works/9.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>iPhone</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -377,13 +377,13 @@
 				</div>
 				<!-- end portfolio item -->
 				<!-- portfolio item -->
-				<div class="portfolio-item grid design web">
+				<div class="portfolio-item grid design photography">
 					<div class="portfolio">
 						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
 						<img src="img/works/10.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>Portfolio name</h5>
+								<h5>MYSQL</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
