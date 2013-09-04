@@ -199,7 +199,7 @@
 		</div>
 		<div class="span3 animated-fast flyIn">
 			<div class="service-box">
-				<img src="img/moon.png" width="89" height="89" class="icon on" alt=""/>
+				<img src="img/moon.png" width="84" height="84" class="icon on" alt=""/>
 				<h2>Networking</h2>
 				<p>
 					 Develop.io is here to make sure that your web development goes as smoothly as possible. If you have a question, we are here to answer it! If you have an issue, we are here to fix it! Our team is dedicated to ongoing support with any issue that arises. You worry about your business, we'll worry about your website! 
@@ -244,7 +244,7 @@
 				<!-- portfolio item -->
 				<div class="portfolio-item grid web photography">
 					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<a href="http://www.w3schools.com/html/">
 						<img src="img/works/1.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
@@ -259,7 +259,7 @@
 				<!-- portfolio item -->
 				<div class="portfolio-item grid web">
 					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<a href="http://www.w3schools.com/php/">
 						<img src="img/works/2.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
@@ -274,7 +274,7 @@
 				<!-- portfolio item -->
 				<div class="portfolio-item grid web">
 					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<a href="http://www.w3schools.com/css/">
 						<img src="img/works/3.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
@@ -289,7 +289,7 @@
 				<!-- portfolio item -->
 				<div class="portfolio-item grid web photography">
 					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<a href="http://www.w3schools.com/js/">
 						<img src="img/works/4.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
@@ -304,11 +304,11 @@
 				<!-- portfolio item -->
 				<div class="portfolio-item grid photography web">
 					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<a href="http://www.w3schools.com/jquery/">
 						<img src="img/works/5.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>JQuery</h5>
+								<h5>jQuery</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
@@ -319,23 +319,8 @@
 				<!-- portfolio item -->
 				<div class="portfolio-item grid photography web">
 					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<a href="http://www.w3schools.com/ajax/">
 						<img src="img/works/6.png" alt="" />
-						<div class="portfolio-overlay">
-							<div class="thumb-info">
-								<h5>CSS</h5>
-								<i class="icon-plus icon-2x"></i>
-							</div>
-						</div>
-						</a>
-					</div>
-				</div>
-				<!-- end portfolio item -->
-				<!-- portfolio item -->
-				<div class="portfolio-item grid web">
-					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
-						<img src="img/works/7.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
 								<h5>AJAX</h5>
@@ -347,9 +332,24 @@
 				</div>
 				<!-- end portfolio item -->
 				<!-- portfolio item -->
+				<div class="portfolio-item grid web">
+					<div class="portfolio">
+						<a href="http://ellislab.com/codeigniter">
+						<img src="img/works/7.png" alt="" />
+						<div class="portfolio-overlay">
+							<div class="thumb-info">
+								<h5>CodeIgniter</h5>
+								<i class="icon-plus icon-2x"></i>
+							</div>
+						</div>
+						</a>
+					</div>
+				</div>
+				<!-- end portfolio item -->
+				<!-- portfolio item -->
 				<div class="portfolio-item grid print photography">
 					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<a href="http://en.wikipedia.org/wiki/Android_%28operating_system%29">
 						<img src="img/works/8.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
@@ -364,7 +364,7 @@
 				<!-- portfolio item -->
 				<div class="portfolio-item grid print">
 					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<a href="http://en.wikipedia.org/wiki/IPhone">
 						<img src="img/works/9.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
@@ -379,11 +379,11 @@
 				<!-- portfolio item -->
 				<div class="portfolio-item grid design photography">
 					<div class="portfolio">
-						<a href="img/works/big.jpg" data-pretty="prettyPhoto[gallery1]" class="portfolio-image">
+						<a href="http://www.tutorialspoint.com/mysql/">
 						<img src="img/works/10.png" alt="" />
 						<div class="portfolio-overlay">
 							<div class="thumb-info">
-								<h5>MYSQL</h5>
+								<h5>MySQL</h5>
 								<i class="icon-plus icon-2x"></i>
 							</div>
 						</div>
