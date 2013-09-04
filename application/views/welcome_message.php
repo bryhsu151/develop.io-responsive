@@ -28,9 +28,11 @@
 		<div class="navbar-inner">
 			<div class="container">
 				<!-- Responsive navbar -->
+				<h2 class="brand"><a href="http://developio.devio">develop<span class="subtitle">.io</span></a>	
+				</h2>
 				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
 				</a>
-				<h2 class="brand"><a href="http://developio.devio">develop.io</a> </h2>
+				
 				<!-- navigation -->
 				<nav class="pull-right nav-collapse collapse">
 				<ul id="menu-main" class="nav">

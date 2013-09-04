@@ -66,7 +66,7 @@ body {
 }
 
 ::-moz-selection {
-	color:#333;
+	color:#FFFFFF;
 }
 ::selection {
 	color:#333;
@@ -279,15 +279,20 @@ h2.pagetitle {
 }
 .navbar .brand {
     text-align: left;    text-transform: lowercase;    font-family: 'PT Sans', sans-serif;    
-    font-size: 80px;    
+    font-size: 50px;    
     line-height: .9;    letter-spacing: -2px;    
     width: 50%;    
     color: #FDF8F8;    
-    text-shadow: 3px 3px 0px #020202, 5px 5px 0px #999;
+    text-shadow: 3px 3px 0px #EEE, 5px 5px 0px #999;
 }
+
+.navbar .brand .subtitle{
+  color:#D3D3D3;
+}
+
 .navbar .brand a {
 	padding: 0;
-	color: #fff;
+	color: #000000;
 	font-size: 80;
 	margin-left: 0;
 	font-weight: 400;
