@@ -283,7 +283,7 @@ h2.pagetitle {
     line-height: .9;    letter-spacing: -2px;    
     width: 50%;    
     color: #FDF8F8;    
-    text-shadow: 3px 3px 0px #EEE, 5px 5px 0px #999;
+    text-shadow: 2px 2px 0px #EEE, 3px 3px 0px #999;
 }
 
 .navbar .brand .subtitle{

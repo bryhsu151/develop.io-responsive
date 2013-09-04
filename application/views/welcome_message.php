@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Develop.io - Web Development Evolved</title>
+<title>develop.io - Web Development Evolved</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="">
 <meta name="author" content="">
@@ -20,6 +20,8 @@
         <![endif]-->
 <!-- Favicon -->
 <link rel="shortcut icon" href="img/favicon.ico">
+<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+
 </head>
 <body>
 <!-- navbar -->
@@ -28,7 +30,7 @@
 		<div class="navbar-inner">
 			<div class="container">
 				<!-- Responsive navbar -->
-				<h2 class="brand"><a href="http://developio.devio">develop<span class="subtitle">.io</span></a>	
+				<h2 class="brand"><a href="#">develop<span class="subtitle">.io</span></a>	
 				</h2>
 				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
 				</a>
